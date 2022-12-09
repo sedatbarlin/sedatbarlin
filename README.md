@@ -1,3 +1,6 @@
+![Top-image](https://user-images.githubusercontent.com/71966913/206716800-467a0a4f-9d41-42ed-8e04-06ec1544fd52.png)
+
+
 <h1 align="center">Hi 👋, I'm Sedat</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
