@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sedat</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
-<p><img align=“right” alt=“Coding” width=“400” height=“400” src=“https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=resedat&label=Profile%20views&color=0e75b6&style=flat" alt="resedat" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sedatbarlin" target="blank"><img src="https://img.shields.io/twitter/follow/sedatbarlin?logo=twitter&style=for-the-badge" alt="sedatbarlin" /></a> </p>
 
 - 🔭 I’m currently working on [RunningApp](https://github.com/resedat/RunningApp)
 
 - 🌱 I’m currently learning **Swift, React Native**
 
 - 📫 How to reach me **barlinsedat@gmail.com**
+
+- ⚡ Fun fact **I think I am funny and dedicated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
