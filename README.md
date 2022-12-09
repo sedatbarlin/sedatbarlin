@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sedat</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
-<img align=“right” alt=“Coding” width=“400” src=“https://user-images.githubusercontent.com/71966913/206712643-ee8c8f0d-f8f6-4e78-aa95-7cb3737a4c5a.gif">
+<img src="https://user-images.githubusercontent.com/71966913/206712643-ee8c8f0d-f8f6-4e78-aa95-7cb3737a4c5a.gif" align="right" width="400" height="250">
 
 
 - 🔭 I’m currently working on [RunningApp](https://github.com/resedat/RunningApp)
