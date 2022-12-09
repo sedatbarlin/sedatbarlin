@@ -2,7 +2,7 @@
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 <img align=“right” alt=“Coding” width=“400” src=“<h1 align="center">Hi 👋, I'm Sedat</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”>
+<img align=“right” alt=“Coding” width=“400” src=“[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resedat&label=Profile%20views&color=0e75b6&style=flat" alt="resedat" /> </p>
 
