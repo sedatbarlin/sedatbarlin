@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **barlinsedat@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and dedicated**
+- ⚡ Fun fact **I think that I am funny and dedicated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
