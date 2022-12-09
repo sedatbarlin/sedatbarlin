@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sedat</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
-<img src=“https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”>
+![giphy](https://user-images.githubusercontent.com/71966913/206709470-6bede12e-0258-4bcf-ba3b-4cda6fe10c8e.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resedat&label=Profile%20views&color=0e75b6&style=flat" alt="resedat" /> </p>
 
