@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/71966913/206712643-ee8c8f0d-f8f6-4e78-aa95-7cb3737a4c5a.gif" align="right" width="400" height="250">
 
 
-- 🔭 I’m currently working on [RunningApp](https://github.com/resedat/RunningApp)
+- 🔭 I’m currently working on [RunningApp](https://github.com/sedatbarlin/RunningApp)
 
 - 🌱 I’m currently learning **Swift, React Native**
 
@@ -26,4 +26,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sedatbarlin&show_icons=true&locale=en&layout=compact" alt="resedat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sedatbarlin&show_icons=true&locale=en&layout=compact" alt="sedatbarlin" /></p>
