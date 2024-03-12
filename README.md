@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sedat</h1>
-<h3 align="center">A passionate iOS developer from Turkey</h3>
+<h3 align="center">A passionate iOS Developer</h3>
 
 <img src="https://user-images.githubusercontent.com/71966913/206712643-ee8c8f0d-f8f6-4e78-aa95-7cb3737a4c5a.gif" align="right" width="400" height="250">
 
