@@ -7,18 +7,9 @@
 
 <div align=center>
   <a href="link"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/893e927d-09b1-4304-acee-1c3a097360a0"></a>
+  <a href="link"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/859a240d-667d-4b71-9e3b-3ffe5f2be447"></a>
+  <a href="link"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/17776772-5e08-4310-ad0a-600b5a24fc24"></a>
 
-
-  
-  <a href="https://apps.apple.com/app/atomic-nuclear-live-wallpapers/id6451434212"><img width=150 src="https://user-images.githubusercontent.com/89473605/256626594-660f1de1-e5c4-4696-ae89-cd233d4a703f.png"></a>
-  <a href="https://apps.apple.com/tr/app/creator-ai-wallpaper-engine/id6450626896"><img width=150 src="https://user-images.githubusercontent.com/89473605/251201893-0fb4a518-9533-4f65-a0da-345d8cb4f993.png"></a>
-  <a href="https://apps.apple.com/tr/app/fitguide-ai-fitness-coach/id6447810132"><img width=150 src="https://user-images.githubusercontent.com/89473605/240197210-1c744c7d-7dea-450f-918d-30271c96d7de.png"></a>
-  <a href="https://apps.apple.com/tr/app/sustainable-quiz-eco-curiosity/id6449001906?"><img width=150 src="https://user-images.githubusercontent.com/89473605/240197219-6ffcac48-93ea-4250-aced-692bd3c2b508.png"></a>
-  <a href="https://twitter.com/asimcanyagizz/status/1651236378057777155?s=20"><img width=150 src="https://user-images.githubusercontent.com/89473605/240504218-82581570-4e57-4a34-a1e9-1e05670cbcbb.png"></a>
-  <a href="https://github.com/asimcanyagiz/BazaarWay"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363022-119a17aa-d2bb-4f08-ade2-bee9768b946b.png"></a>
-  <a href="https://github.com/asimcanyagiz/WisdomAI-ChatGPT"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363211-81c792f4-2ce0-459f-a5fc-e726aba0bcb0.png"></a>
-  <a href="https://github.com/asimcanyagiz/Flickgram"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363227-108b90d4-f1df-494b-820c-d8dae190dd23.png"></a>
-  <a href="https://github.com/asimcanyagiz/MeTunes"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363220-5d0b82ad-bde3-47db-9206-404424cf1892.png"></a>
 </div>
 
 
