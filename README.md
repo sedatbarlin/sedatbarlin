@@ -7,9 +7,6 @@
 
 - 📫 How to reach me **barlinsedat@gmail.com**
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=200&color=775ef0&vCenter=true&multiline=true&repeat=false&random=false&width=760&height=75&lines=Hey%2C+it's+me%2C+Hilal+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+delighted+to+have+you+in+my+work+environment..)](https://git.io/typing-svg)
-
-
 ## Connect with me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
