@@ -14,7 +14,7 @@
 
 
 ## Connect with me
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/sedatbarlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sedatbarlin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sedatbarlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sedatbarlin" height="30" width="40" /></a>
 <a href="https://medium.com/@sedatbarlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sedatbarlin" height="30" width="40" /></a>
