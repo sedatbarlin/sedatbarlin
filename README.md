@@ -4,9 +4,8 @@
 <div>
     <h2 align=center> My Applications </h2>
 </div>
-
 <div align=center>
-  <a href="https://apps.apple.com/tr/app/sportica/id6468880704?l=tr"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/893e927d-09b1-4304-acee-1c3a097360a0"></a>
+  <a href="https://apps.apple.com/tr/app/sportica/id6468880704?l=tr"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/87f06be4-2f7c-4fa0-b15c-cf884c9ea4cc"></a>
   <a href="https://github.com/sedatbarlin/Foodie"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/859a240d-667d-4b71-9e3b-3ffe5f2be447"></a>
   <a href="https://github.com/sedatbarlin/TCPSocketClient"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/17776772-5e08-4310-ad0a-600b5a24fc24"></a>
     <a href="https://github.com/sedatbarlin/ToDo"><img width=150 src="https://github.com/sedatbarlin/ToDo/assets/71966913/339872ba-0481-41d1-b31b-048de42ae5cf"></a>
