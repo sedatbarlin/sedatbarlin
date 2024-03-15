@@ -24,5 +24,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sedatbarlin&show_icons=true&locale=en&hide_border=true&layout=compact&theme=vision-friendly-dark" alt="sedatbarlin" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sedatbarlin&show_icons=true&theme=vision-friendly-dark&hide_border=true&locale=en" alt="sedatbarlin" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sedatbarlin&theme=vision-friendly-dark&hide_border=true" alt="sedatbarlin" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedatbarlin&label=Profile%20views&color=775ef0&style=flat" alt="sedatbarlin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sedatbarlin&label=Profile%20views&color=775ef0&style=flat" alt="sedatbarlin" /> </p>
 
