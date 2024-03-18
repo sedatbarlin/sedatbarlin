@@ -2,7 +2,7 @@
 <h3 align="center">I'm an iOS developer with a passion for providing high-quality and user-friendly solutions. For now I have hands-on experience designing and developing complex mobile apps using UIKit.</h3>
 
 <div>
-    <h2 align=center> My Applications </h2>
+    <h2 align=center> My Projects </h2>
 </div>
 <div align=center>
   <a href="https://apps.apple.com/tr/app/sportica/id6468880704?l=tr"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/87f06be4-2f7c-4fa0-b15c-cf884c9ea4cc"></a>
