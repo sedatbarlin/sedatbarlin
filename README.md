@@ -3,7 +3,7 @@
 
 <div>
     <h2 align=center> My Projects </h2>
-</div>
+</div> 
 <div align=center>
   <a href="https://apps.apple.com/tr/app/sportica/id6468880704?l=tr"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/87f06be4-2f7c-4fa0-b15c-cf884c9ea4cc"></a>
   <a href="https://github.com/sedatbarlin/Foodie"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/859a240d-667d-4b71-9e3b-3ffe5f2be447"></a>
