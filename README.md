@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sedat</h1>
 <h3 align="center">I'm an iOS developer with a passion for providing high-quality and user-friendly solutions. For now I have hands-on experience designing and developing complex mobile apps using UIKit and SwiftUI.</h3>   
-
+ 
 <div>
     <h2 align=center> My Projects </h2>
 </div> 
