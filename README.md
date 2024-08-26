@@ -12,7 +12,7 @@
     <a href="https://github.com/sedatbarlin/GitHubFollowers"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/4f92c894-ea8f-4328-9c82-e3232413c3c2"></a>
 </div>
 
-## Connect with me :    
+## Connect with me :     
 <table> 
   <tr>
     <td style="vertical-align: middle;"><a href="https://twitter.com/sedatbarlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sedatbarlin" height="30" width="40" /></a></td>
