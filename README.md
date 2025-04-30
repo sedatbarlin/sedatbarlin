@@ -5,7 +5,7 @@
     <h2 align=center> My Projects </h2> 
 </div> 
 <div align=center>
- <a href=""><img width=150 src="https://github.com/user-attachments/assets/0bba17cf-9670-4abe-aac1-477ac9a44d96"></a>
+ <a href="https://apps.apple.com/tr/app/quotly/id6744559837"><img width=150 src="https://github.com/user-attachments/assets/0bba17cf-9670-4abe-aac1-477ac9a44d96"></a>
  <a href="https://apps.apple.com/tr/app/book-briefs/id6736406388"><img width=150 src="https://github.com/user-attachments/assets/a270d1da-e042-4575-a678-7c081432fc3b"></a>
   <a href="https://apps.apple.com/tr/app/sportica/id6468880704?l=tr"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/87f06be4-2f7c-4fa0-b15c-cf884c9ea4cc"></a>
   <a href="https://github.com/sedatbarlin/TCPSocketClient"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/17776772-5e08-4310-ad0a-600b5a24fc24"></a>
