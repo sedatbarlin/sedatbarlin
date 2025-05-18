@@ -2,7 +2,7 @@
 <h3 align="center">I'm an iOS developer with a passion for providing high-quality and user-friendly solutions. For now I have hands-on experience designing and developing complex mobile apps using UIKit and SwiftUI.</h3>   
  
 <div>
-    <h2 align=center> My Projects </h2> 
+    <h2 align=center> My Apps </h2> 
 </div> 
 <div align=center>
  <a href="https://apps.apple.com/tr/app/quotly/id6744559837"><img width=150 src="https://github.com/user-attachments/assets/0bba17cf-9670-4abe-aac1-477ac9a44d96"></a>
