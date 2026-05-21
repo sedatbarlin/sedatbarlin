@@ -5,11 +5,11 @@
     <h2 align=center> My Apps </h2> 
 </div> 
 <div align=center>
+ <a href="https://apps.apple.com/tr/app/tasbih-counter-pro/id6759825022"><img width=150 src="https://github.com/user-attachments/assets/e1ecae68-2d16-479b-b768-194bcf5d4bef"></a>
  <a href="https://apps.apple.com/tr/app/quotly/id6744559837"><img width=150 src="https://github.com/user-attachments/assets/0bba17cf-9670-4abe-aac1-477ac9a44d96"></a>
  <a href="https://apps.apple.com/tr/app/pomodoro-timer-timy/id6749895671"><img width=150 src="https://github.com/user-attachments/assets/3d121c7c-dfa5-4300-8f43-0e0dcf105b8f"></a>
  <a href="https://apps.apple.com/tr/app/book-briefs/id6736406388"><img width=150 src="https://github.com/user-attachments/assets/a270d1da-e042-4575-a678-7c081432fc3b"></a>
  <a href="https://github.com/sedatbarlin/TCPSocketClient"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/17776772-5e08-4310-ad0a-600b5a24fc24"></a>
- <a href="https://github.com/sedatbarlin/GitHubFollowers"><img width=150 src="https://github.com/sedatbarlin/sedatbarlin/assets/71966913/4f92c894-ea8f-4328-9c82-e3232413c3c2"></a>
 </div>
 
 ## Connect with me :         
